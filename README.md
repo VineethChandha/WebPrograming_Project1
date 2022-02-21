@@ -1,1 +1,2 @@
-# WebPrograming_Project1
+# webprogramming-p1
+HTML/CSS Project
